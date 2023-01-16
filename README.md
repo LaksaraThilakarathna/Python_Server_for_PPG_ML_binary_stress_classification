@@ -1,7 +1,9 @@
 # Python_Server_for_PPG_ML_binary_stress_classification
 
-Run main.py file
+1. Run main.py file
 
+2. Test on postman
+3. 
 example URL = http://127.0.0.1:7777/is/stressed/?user=Oshada
 
 example post req body = {
